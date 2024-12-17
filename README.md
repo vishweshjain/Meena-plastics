@@ -46,7 +46,7 @@ Meena Plastics is ISO 9001/2015 certified and is well-known for providing top-qu
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/vishweshjain/meena-plastics.git
+   git clone https://github.com/vishweshjain/Meena-plastics-.git
    
 meena-plastics/
 │
