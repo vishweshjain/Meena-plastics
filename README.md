@@ -10,8 +10,6 @@ Welcome to the **Meena Plastics** website repository! This project showcases a r
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Folder Structure](#folder-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
