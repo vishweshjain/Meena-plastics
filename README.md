@@ -17,7 +17,11 @@ This project is a clean, responsive, and user-friendly static website built for 
 The website serves as an online identity to showcase the company’s eco-conscious practices, industry reach, and direct contact information for client inquiries.
 
 ---
+## 📸 Demo
 
+🔗 https://meena-plastics.netlify.app/
+
+---
 ## ✨ Features
 
 - 🏠 **Home Page** – Clean and visually appealing entry point with a navigation bar  
